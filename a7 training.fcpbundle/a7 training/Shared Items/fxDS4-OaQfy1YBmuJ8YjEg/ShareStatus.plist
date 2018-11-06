@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>export</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<string>Friday, August 24, 2018 at 10:57:10 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-08-25T05:57:10Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/chicken.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>fxDS4/OaQfy1YBmuJ8YjEg - 2018-08-25 05:56:58 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>Friday, August 24, 2018 at 11:01:20 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-08-25T06:01:20Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/chicken.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>fxDS4/OaQfy1YBmuJ8YjEg - 2018-08-25 06:01:01 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>Friday, August 24, 2018 at 11:03:43 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-08-25T06:03:43Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/chicken.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>fxDS4/OaQfy1YBmuJ8YjEg - 2018-08-25 06:03:20 +0000</string>
+		</dict>
+	</array>
+</dict>
+</plist>

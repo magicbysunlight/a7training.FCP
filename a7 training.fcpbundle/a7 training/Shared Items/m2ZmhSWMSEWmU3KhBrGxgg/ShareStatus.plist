@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>export</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<string>Wednesday, August 8, 2018 at 9:04:15 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-08-09T04:04:15Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/jaz chair.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>m2ZmhSWMSEWmU3KhBrGxgg - 2018-08-09 04:03:43 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>Wednesday, August 8, 2018 at 9:04:51 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-08-09T04:04:51Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/jaz chair full.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>m2ZmhSWMSEWmU3KhBrGxgg - 2018-08-09 04:04:30 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>Wednesday, August 8, 2018 at 9:05:15 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-08-09T04:05:15Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/jaz chair front.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>m2ZmhSWMSEWmU3KhBrGxgg - 2018-08-09 04:04:54 +0000</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<string>Wednesday, August 8, 2018 at 9:07:39 PM Pacific Daylight Time</string>
+			<key>fullDate</key>
+			<date>2018-08-09T04:07:39Z</date>
+			<key>resultStr</key>
+			<array>
+				<string>/Volumes/2134475566/jaz chair full.mov</string>
+			</array>
+			<key>sourceFP</key>
+			<string>m2ZmhSWMSEWmU3KhBrGxgg - 2018-08-09 04:07:31 +0000</string>
+		</dict>
+	</array>
+</dict>
+</plist>
